@@ -1,0 +1,2 @@
+# EasyInstallerSimply
+ test
